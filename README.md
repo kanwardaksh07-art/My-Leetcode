@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0053-maximum-subarray) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
