@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0048-rotate-image) |
 | [1025-divisor-game](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
