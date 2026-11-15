@@ -106,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/kanwardaksh07-art/My-Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 <!---LeetCode Topics End-->
